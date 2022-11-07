@@ -17,6 +17,7 @@ Love Data Science.
 - Git
 - Airflow
 - Excel
+- Hadoop
 - Jira, Confluence
 
 
