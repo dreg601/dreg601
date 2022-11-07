@@ -11,6 +11,11 @@ Love Data Science.
 
 For now, i am actively studying python and all the analytical libraries of this PL
 
+You can see some of the tests published here: ^_^<br/>
+[test_task_innopolis](https://github.com/dreg601/test_task_inno)
+[test_task_beeline](https://github.com/dreg601/test_task_bee)
+
+
 **STACK_**<br/>
 - Python (Pandas, Seaborn, SciPy, NumPy)
 - SQL, HQL (HIVE, PostgreSQL)
