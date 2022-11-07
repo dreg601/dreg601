@@ -9,6 +9,8 @@ I enjoy to dive into the data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
 
+For now, i am actively studying python and all the analytical libraries of this PL
+
 **STACK_**<br/>
 - Python (Pandas, Seaborn, SciPy, NumPy)
 - SQL, HQL (HIVE, PostgreSQL)
