@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**dreg601/dreg601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dmitrii_Zhalnin**<br/>
+Junior Data Analyst.
 
-Here are some ideas to get you started:
+**ABOUT_**<br/>
+On my way to become BIG Data-pro.<br/>
+I enjoy to dive into the data and find patterns.<br/>
+Also like solving tasks related to Statistics and A/B testing.<br/>
+Love Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**STACK_**<br/>
+- Python (Pandas, Seaborn, SciPy, NumPy)
+- SQL, HQL (HIVE, PostgreSQL)
+- A/B testing and statistics
+- BI systems (Power BI, Qlicksense)
+- Git
+- Airflow
+- Excel
+- Jira, Confluence
+
+
+**CONTACT_**<br/>
+   - [telegram](https://t.me/dreg601) 
+   - dregon20000@gmail.com 
+
