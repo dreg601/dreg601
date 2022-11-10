@@ -1,7 +1,6 @@
 ### Привет! 👋
 
-<center><h1>Дмитрий Жалнин</h1></center>
-Junior Data Analyst.<br/>
+<center><h1>Дмитрий Жалнин. Junior Data Analyst.</h1></center>
 
 <h2>Обо мне_</h2>
 
