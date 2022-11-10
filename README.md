@@ -8,8 +8,7 @@ On my way to become BIG Data-pro.<br/>
 I enjoy to dive into the data and find patterns.<br/>
 Also like solving tasks related to Statistics and A/B testing.<br/>
 Love Data Science.
-
-For now, i am actively studying python and all the analytical libraries of this PL
+Мой нынешний уровень - это jun/jun+
 
 <h2>You can see some my activities published here: ^_^</h2>
 
@@ -27,6 +26,8 @@ For now, i am actively studying python and all the analytical libraries of this 
 - Excel<br/>
 - Hadoop<br/>
 - Jira, Confluence<br/>
+
+For now, i am actively studying python and all the analytical libraries of this PL
 
 
 <h2>CONTACT_</h2>
