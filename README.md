@@ -1,22 +1,22 @@
-### Hi there 👋
+### Привет! 👋
 
-<center><h1>Dmitrii_Zhalnin</h1></center>
+<center><h1>Дмитрий Жалнин</h1></center>
 Junior Data Analyst.<br/>
 
-**ABOUT_**<br/>
-On my way to become BIG Data-pro.<br/>
-I enjoy to dive into the data and find patterns.<br/>
-Also like solving tasks related to Statistics and A/B testing.<br/>
-Love Data Science.
-Мой нынешний уровень - это jun/jun+
+**Обо мне_**<br/>
+Мой нынешний уровень - это jun/jun+.<br/>
+До этого, почти год работал в бигдате, в продуктовой команде (занимался кк и страхованием).<br/>
+Взаимодействовал с разработчиками для формирования витрин данных и их тестирования.<br/>
+Имеется понимание продуктовых метрик (ARPU, LTV, MAU).<br/>
+Большую часть времени занимался ad-hoc аналитикой.<br/>
 
-<h2>You can see some my activities published here: ^_^</h2>
+<h2>Здесь представлены некоторые мои проекты и тестовые задания, которые я выполнял. ^_^</h2>
 
-[Test tasks](https://github.com/dreg601/Dima_Zhalnin)<br/>
-[Student projects]() add later<br/>
-[Pet projects]() add later<br/>
+[Тестовые задания](https://github.com/dreg601/Dima_Zhalnin)<br/>
+[Проекты для обучения]() add later<br/>
+[Pet-проекты]() add later<br/>
 
-<h2>STACK_</h2>
+<h2>Технологический стек_</h2>
 - Python (Pandas, Seaborn, SciPy, NumPy)<br/>
 - SQL, HQL (HIVE, PostgreSQL)<br/>
 - A/B testing and statistics<br/>
@@ -27,7 +27,8 @@ Love Data Science.
 - Hadoop<br/>
 - Jira, Confluence<br/>
 
-For now, i am actively studying python and all the analytical libraries of this PL
+На данный момент, я активно улучшаю свои знания ЯП python и его аналитического стека, а также airflow.<br/>
+Еще, прохожу курс от карпова по основам статистики на степике.<br/>
 
 
 <h2>CONTACT_</h2>
