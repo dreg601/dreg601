@@ -19,7 +19,7 @@
 [Pet-проекты]() add later<br/>
 
 <h2>Технологический стек_</h2>
-- Python (Pandas, Seaborn, SciPy, NumPy)<br/>
+- Python (Pandas, Seaborn, Matplotlib, NumPy)<br/>
 - SQL, HQL (HIVE, PostgreSQL)<br/>
 - A/B testing and statistics<br/>
 - BI systems (Power BI, Qlicksense)<br/>
